@@ -1,0 +1,3 @@
+001,0001,Dune,Frank Herbert,Science Fiction,10.989999771118164,true,null,null
+002,0002,1984,George Orwell,Dystopian Fiction,9.989999771118164,false,04/28/2023,05/28/2023
+003,0003,To Kill a Mockingbird,Harper Lee,Coming of Age Fiction,8.989999771118164,true,null,null
