@@ -13,7 +13,7 @@ password: lms
 
 
 
-class diagram:
+Class diagram:
 
 <img width="545" alt="Screenshot 2023-05-01 at 4 48 12 PM" src="https://user-images.githubusercontent.com/80407282/235550675-5b6b9eb2-3b29-4b58-9b27-628a97dde51d.png">
 
